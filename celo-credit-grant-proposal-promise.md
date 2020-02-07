@@ -50,20 +50,21 @@ Celo Credit Grant Proposal Budget (Team of 4)
 
 Milestone | Activity Description
 --------- | --------------------
-1 | Fork & Implementation of Al Gamal signature scheme
-2 | Test and verification of signature scheme interaction on Celo
+1 | Fork celo core repo to test implementation of new signature schemes
+2 | Test verification of signature scheme interaction on Celo fork for the new public keys.
 3 | Professor Ateniese Engagement for 2 months to advise project
-4 | Creation of Proxy Re-signature scheme using strong Private Key and Weak Private Keys
-5 | Proxy re-signature key signatures as valid spend transaction signatures in Celo
-6 | Successful test of spending funds from a Celo public key to another public key as the original signature with proxy re-signature key
-7 | Creation of Merkelized Asset Syntax Tree for storage of Celo Credit state
-8 | Storage of successful repayment contract states in Celo without need for a smart contract
-9 | Authorization public key implementation for proxy re-signature rules
-10 | Consensus rules upgrade and testing for authorization keys to allow for valid and authorized transactions
-11 | Perform security guarantee audit for authorization keys and proxy re-signature keys
-12 | Documentation of Promise implementation of Celo Credit
-13 | Celo Credit Testnet with Dashboard of Celo Credit lines open, in repayment, or in default
-14 | Merge Celo Credit with Pull Request for evaluation by Celo Team
+4 | Implementation of Promise of Proxy Re-signature scheme using strong Private Key and Weak Private Keys
+5 | Implementation of Promise Identity Public Key and Authorization Public keys for tracking transactions and authorizing receipt of payments.
+6 | Proxy re-signature key signatures as valid spend transaction signatures in Celo
+7 | Successful test of spending funds from a Celo public key to another public key as the original signature with proxy re-signature key
+8 | Creation of Merkelized Asset Syntax Tree for storage of Celo Credit state
+9 | Storage of successful repayment contract states in Celo without need for a smart contract
+10 | Authorization public key implementation for proxy re-signature rules
+11 | Consensus rules upgrade and testing for authorization keys to allow for valid and authorized transactions
+12 | Perform security guarantee audit for authorization keys and proxy re-signature keys
+13 | Documentation of Promise implementation of Celo Credit
+14 | Celo Credit Testnet with Dashboard of Celo Credit lines open, in repayment, or in default
+15 | Merge Celo Credit with Pull Request for evaluation by Celo Team
 
 
 ## What are the milestones to track progress?
