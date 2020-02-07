@@ -32,8 +32,7 @@ Juan Jeni is an active contributor to the various blockchain protocols including
 Jacob is the lead engineer at Aquila Services Inc. He has over 15 years of software engineering expertise and has over 3 years developing and shipping repayment performance tracking systems for Aquila. Jacob will bring engineering expertise to design proper credit performance tracking of proxy re-signature transactions. More about Jacob is here: https://www.linkedin.com/in/rootedbox/
 
 
-## What is your proposal?
-How would you like to contribute to our mission of building an open monetary system that creates conditions of prosperity for all?
+## What is your proposal? How would you like to contribute to our mission of building an open monetary system that creates conditions of prosperity for all?
 Promise proposes to bring credit infrastructure to the Celo protocol called Celo Credit. Celo Credit will be built on a proposed fork and implementation of Promise’s proxy re-signature architecture on the Celo core protocol. Promise will then test its re-signature implementation with a demonstration of how this technology would work for the greater Celo community.
 
 Celo Credit will allow users to delegate spending of delegated funds as the user, which requires more verification and trust effort instead of a group signature scheme such as a multisignature wallet. Celo Credit users will be able to participate in a credit community where funds can be spent to support credit obligations and commitments to replay.
