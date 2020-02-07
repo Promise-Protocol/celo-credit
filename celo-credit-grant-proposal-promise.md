@@ -47,6 +47,11 @@ We are seeking  a grant of $100,000 to implement proxy re-signatures on a Celo f
 **The investment required to cover the costs are outlined below:**
 
 Celo Credit Grant Proposal Budget (Team of 4)
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 Milestone | Activity Description
 --------- | --------------------
 1 | Fork & Implementation of Al Gamal signature scheme
