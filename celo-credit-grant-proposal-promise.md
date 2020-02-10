@@ -1,6 +1,8 @@
 # Celo Credit Grant Proposal by Promise
 Published February 5, 2020
 
+Author - Taariq Lewis
+
 ## What is the name of your company/project?
 Promise
 
@@ -12,6 +14,15 @@ San Francisco
 
 
 ## Describe your company/project
+Promise Protocols is a team of engineer and product leaders dedicated to bringing greater, global access to credit services. Credit services are typically known as credit scores or credit worthiness. Access to credit is controlled by the tracking of our credit history. Credit service companies currently control that history for hundreds of millions of people. Credit is one of the key characteristics of identity.
+
+Firms that provide credit services today in the USA include:
+* Fair, Isaac and Company (FICO)
+* TransUnion
+* Experian
+* Equifax
+* Vantage (Equifax, Experian, an TransUnion)
+
 Promise is a decentralized credit protocol aimed at providing universal access to credit services that include credit, credit tracking, and repayment risk management for those without established credit or access to sophisticated credit services. The Promise team has extensive experience in cryptography, credit, and credit risk with over 10 years of credit and collections expertise.
 
 Promise aims to build a useful on chain reputation-building systems without the need for extensive off-chain identity management. Promise uses a specific cryptography innovation called proxy re-signatures, developed by team member, Professor Giuseppe Antienese. Proxy re-signatures enable users of a protocol to use a proxy re-signature key to re-sign transactions on behalf of other, assigned users, that have created and distributed the proxy re-signature key. The resulting signature from the proxy re-signature key will be a signature that is indistinguishable from the private key signature of the original funds holder.
@@ -32,8 +43,7 @@ Juan Jeni is an active contributor to the various blockchain protocols including
 Jacob is the lead engineer at Aquila Services Inc. He has over 15 years of software engineering expertise and has over 3 years developing and shipping repayment performance tracking systems for Aquila. Jacob will bring engineering expertise to design proper credit performance tracking of proxy re-signature transactions. More about Jacob is here: https://www.linkedin.com/in/rootedbox/
 
 
-## What is your proposal?
-How would you like to contribute to our mission of building an open monetary system that creates conditions of prosperity for all?
+## What is your proposal? How would you like to contribute to our mission of building an open monetary system that creates conditions of prosperity for all?
 Promise proposes to bring credit infrastructure to the Celo protocol called Celo Credit. Celo Credit will be built on a proposed fork and implementation of Promise’s proxy re-signature architecture on the Celo core protocol. Promise will then test its re-signature implementation with a demonstration of how this technology would work for the greater Celo community.
 
 Celo Credit will allow users to delegate spending of delegated funds as the user, which requires more verification and trust effort instead of a group signature scheme such as a multisignature wallet. Celo Credit users will be able to participate in a credit community where funds can be spent to support credit obligations and commitments to replay.
@@ -51,10 +61,10 @@ Celo Credit Grant Proposal Budget (Team of 4)
 Milestone | Activity Description
 --------- | --------------------
 1 | Fork celo core repo to test implementation of new signature schemes
-2 | Test verification of signature scheme interaction on Celo fork for the new public keys.
+2 | Test verification of new signature scheme interaction on Celo fork for the new public keys.
 3 | Professor Ateniese Engagement for 2 months to advise project
-4 | Implementation of Promise of Proxy Re-signature scheme using strong Private Key and Weak Private Keys
-5 | Implementation of Promise Identity Public Key and Authorization Public keys for tracking transactions and authorizing receipt of payments.
+4 | Implement the addition of Promise of Proxy Re-signature scheme using strong Private Key and Weak Private Keys
+5 | Implement the addition of Promise Identity Public Key and Authorization Public keys for tracking transactions and authorizing receipt of payments.
 6 | Proxy re-signature key signatures as valid spend transaction signatures in Celo
 7 | Successful test of spending funds from a Celo public key to another public key as the original signature with proxy re-signature key
 8 | Creation of Merkelized Asset Syntax Tree for storage of Celo Credit state
