@@ -12,6 +12,8 @@ San Francisco
 
 
 ## Describe your company/project
+Promise Protocols is a team of engineer and product leaders dedicated to bringing greater, global access to credit services. Credit services are typically known as credit scores or credit worthiness. Access to credit is controlled by the tracking of our credit history. Credit service companies currently control that history for hundreds of millions of people. Credit is one of the key characteristics of identity.
+
 Promise is a decentralized credit protocol aimed at providing universal access to credit services that include credit, credit tracking, and repayment risk management for those without established credit or access to sophisticated credit services. The Promise team has extensive experience in cryptography, credit, and credit risk with over 10 years of credit and collections expertise.
 
 Promise aims to build a useful on chain reputation-building systems without the need for extensive off-chain identity management. Promise uses a specific cryptography innovation called proxy re-signatures, developed by team member, Professor Giuseppe Antienese. Proxy re-signatures enable users of a protocol to use a proxy re-signature key to re-sign transactions on behalf of other, assigned users, that have created and distributed the proxy re-signature key. The resulting signature from the proxy re-signature key will be a signature that is indistinguishable from the private key signature of the original funds holder.
@@ -50,10 +52,10 @@ Celo Credit Grant Proposal Budget (Team of 4)
 Milestone | Activity Description
 --------- | --------------------
 1 | Fork celo core repo to test implementation of new signature schemes
-2 | Test verification of signature scheme interaction on Celo fork for the new public keys.
+2 | Test verification of new signature scheme interaction on Celo fork for the new public keys.
 3 | Professor Ateniese Engagement for 2 months to advise project
-4 | Implementation of Promise of Proxy Re-signature scheme using strong Private Key and Weak Private Keys
-5 | Implementation of Promise Identity Public Key and Authorization Public keys for tracking transactions and authorizing receipt of payments.
+4 | Implement the addition of Promise of Proxy Re-signature scheme using strong Private Key and Weak Private Keys
+5 | Implement the addition of Promise Identity Public Key and Authorization Public keys for tracking transactions and authorizing receipt of payments.
 6 | Proxy re-signature key signatures as valid spend transaction signatures in Celo
 7 | Successful test of spending funds from a Celo public key to another public key as the original signature with proxy re-signature key
 8 | Creation of Merkelized Asset Syntax Tree for storage of Celo Credit state
