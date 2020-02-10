@@ -52,7 +52,7 @@ The Celo community aims to target new and innovative ways of  developing reputat
 
 
 ## What level of investment is required to achieve this?
-We are seeking  a grant of $100,000 to implement proxy re-signatures on a Celo fork with the goal that the eventual functionality, if successful, will be merged into Celo’s core client as “Celo Credit”. We expect that this effort will take anywhere from 6 months to 1 full year of cryptography software engineering and cryptography work  in order to review successful deployment as a Celo fork for testing before proposing merges into Celo’s protocol.
+We are seeking  a grant to implement proxy re-signatures on a Celo fork with the goal that the eventual functionality, if successful, will be merged into Celo’s core client as “Celo Credit”. We expect that this effort will take anywhere from 6 months to 1 full year of cryptography software engineering and cryptography work  in order to review successful deployment as a Celo fork for testing before proposing merges into Celo’s protocol.
 
 **The investment required to cover the costs are outlined below:**
 
