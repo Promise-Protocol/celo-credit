@@ -1,5 +1,6 @@
 # Celo Credit Grant Proposal by Promise
 Published February 5, 2020
+Author - Taariq Lewis
 
 ## What is the name of your company/project?
 Promise
